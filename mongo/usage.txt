@@ -1,0 +1,1 @@
+$ u=username p=password ef=.env docker-compose up
